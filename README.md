@@ -1,0 +1,2 @@
+# wbsafelink
+safelinkbaru
